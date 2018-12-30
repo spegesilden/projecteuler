@@ -1,2 +1,2 @@
 # Ignore .class files from Java projects
-*.class
+*/*.class
